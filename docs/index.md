@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Danish Taariq" class="profile-photo">
+  <h1>Danish Tariq</h1>
+  <p><strong>Climate tech whiz</strong></p>
+  <p><em>  Turning spatial data into insights | GIS | Remote Sensing | Python | Machine learning]</em></p>
 </div>
 
 ---
@@ -44,7 +44,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 </div>
 
-<div class="about-image">
+<div class="about.png">
   <img src="assets/images/about.png" alt="About">
 </div>
 
@@ -53,7 +53,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Danish-CV.pdf){ .md-button }
 
 
 ---
