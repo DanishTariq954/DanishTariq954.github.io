@@ -19,8 +19,8 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="Danish Taariq" class="profile-photo">
-  <h1>Danish Tariq</h1>
+  <img src="assets/images/Profile.JPG" alt="Danish Tariq" class="profile-photo">
+  <h0>Danish Tariq</h0>
   <p><strong>Climate tech whiz</strong></p>
   <p><em>  Turning spatial data into insights | GIS | Remote Sensing | Python | Machine learning]</em></p>
 </div>
