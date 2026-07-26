@@ -3,13 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
 
 # Experience & Education
 
@@ -19,23 +12,12 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Senior Credit Analyst — Cloud Data Private Limited
+*September 2025 – Present | Islamabad, Pakistan*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
-
-</div>
-
-<div class="timeline-entry" markdown>
-
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
-
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Working as a Senior Credit Analyst at Cloud Data Private Limited
+- [Add a sentence on your main responsibilities or achievements in this role]
+- [Add a sentence on any tools, methods, or skills applied regularly]
 
 </div>
 
@@ -45,22 +27,36 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### Master in Climate Change and Sustainable Development
+**National University of Sciences and Technology (NUST), Islamabad** | *2025 – Present*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
+Current GPA: 3.5/4. Research base project: an integrated climate vulnerability index dashboard for district-level assessment in Pakistan using remote sensing, GIS, and machine learning.
 
 ---
 
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### BSc Electrical Engineering
+**University of Engineering and Technology, Taxila** | *2019 – 2023*
+
+Final grade: 3.20/4
+
+---
+
+### HSSC
+**Harvard College of Science and Commerce, Rawalpindi** | *2015 – 2019*
+
+Final grade: 976/1100
+
+---
+
+### SSC
+**FG Boys High School, Rawalpindi** | *2015 – 2017*
+
+Final grade: 954/1050
 
 ---
 
 ## Certifications
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
+- [No formal certifications listed in your CV — see note below]
 
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+</div>
