@@ -27,20 +27,13 @@ CHECKLIST FOR THIS PAGE:
 
 ---
 
-## About Me
+## ***About Me***
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am a Climate Technology and Geospatial Researcher pursuing a Master's in Climate Change and Sustainable Development. My work focuses on applying AI, machine learning, GIS, remote sensing, and Earth observation data to climate vulnerability assessment, disaster risk reduction, and environmental monitoring. I develop data-driven solutions using Python, Google Earth Engine, ArcGIS, and deep learning to support evidence-based climate policy and resilience planning, including Pakistan's first Climate Vulnerability Index (CVI) Dashboard. I am currently seeking opportunities in Climate Tech, GeoAI, Environmental Data Science, and AI-driven Climate Risk Analytics, where I can build innovative solutions for climate resilience and sustainable development.
 
 </div>
 
@@ -118,5 +111,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/DanishTariq954){ .md-button }
+[LinkedIn](https://linkedin.com/in/danish-tariq-9542291b8){ .md-button }
