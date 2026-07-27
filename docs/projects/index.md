@@ -21,7 +21,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+**[Rainfall prediction model](rainfall-project.md)**
 
 [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
 and what you found or built.]
