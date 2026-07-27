@@ -21,14 +21,13 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**[Rainfall prediction model](rainfall-project.md)**
+**[Rainfall prediction model](rainfall-prediction_model.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+A machine learning system that predicts rainfall probability across Pakistan by combining real-time weather API data with historical rainfall trend analysis.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`GEE` `Python` `Machine Learning`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](rainfall-prediction_model.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
