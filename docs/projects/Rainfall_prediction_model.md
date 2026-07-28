@@ -10,7 +10,6 @@ A machine learning system that predicts rainfall probability across Pakistan by 
 **Duration:** April 2026 – May 2026  
 **Role:** Solo project  
 **Status:** Completed
-
 ---
 
 ## Methods & Tools
