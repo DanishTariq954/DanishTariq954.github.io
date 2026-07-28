@@ -80,7 +80,7 @@ nav:
   - Home: index.md
   - Projects:
     - "All Projects": projects/index.md
-    - "Rainfall-prediction_model)": projects/sample-project.md
+    - "Rainfall-prediction_model)": projects/Rainfall_prediction_model.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
